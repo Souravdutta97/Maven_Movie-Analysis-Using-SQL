@@ -29,3 +29,7 @@ Maven Movies is an independent film production company founded in 2010 by filmma
 21. Get films with lengths between 50 to 100.
 22. Get the top 50 actors.
 23. Retrieve distinct film IDs from the inventory table.
+
+## Technologies Used ##
+- SQL
+- Database Managment System
