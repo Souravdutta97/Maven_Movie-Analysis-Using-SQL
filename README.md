@@ -33,3 +33,11 @@ Maven Movies is an independent film production company founded in 2010 by filmma
 ## Technologies Used ##
 - SQL
 - Database Managment System
+## Conclusion ##
+In conclusion, the data analysis of Maven Movies using SQL has provided valuable insights into the company's performance and trends, we have been able to identify patterns that can inform future business decisions.  Moving forward, these insights can be leveraged to further enhance Maven Movies' success in the film industry.
+
+ ## Authors ##
+
+- [@Souravdutta97](https://github.com/Souravdutta97)
+
+Sourav Dutta - Data Analyst
